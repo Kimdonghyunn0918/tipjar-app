@@ -1,1 +1,1 @@
-export const CONTRACT_ADDRESS = "92113504김동현"; // Remix 배포 후 변경
+export const CONTRACT_ADDRESS = "0xYourAddressHere"; // Remix 배포 후 변경
